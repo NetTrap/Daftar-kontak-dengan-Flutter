@@ -1,17 +1,10 @@
 # proyek_flutter
 
-A new Flutter project.
+- Halaman Profil
+  <img width="1366" height="729" alt="halaman profil" src="https://github.com/user-attachments/assets/7f4c6b94-1933-45b7-9a16-daa12e00238e" />
 
-## Getting Started
+- Daftar Kontak
+  <img width="1366" height="729" alt="daftar kontak" src="https://github.com/user-attachments/assets/e5279262-cc7a-4532-ba08-e577d5135934" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Halaman Pencarian
+  <img width="1366" height="727" alt="halaman pencarian" src="https://github.com/user-attachments/assets/6a90ad8b-2bbf-43e2-8e3d-1a7a1e3cd301" />
